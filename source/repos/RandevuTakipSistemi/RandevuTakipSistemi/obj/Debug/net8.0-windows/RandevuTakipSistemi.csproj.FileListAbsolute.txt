@@ -1,0 +1,7 @@
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.Form1.resources
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.csproj.GenerateResource.cache
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.AssemblyInfoInputs.cache
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.AssemblyInfo.cs
+C:\Users\BERAT-PC\source\repos\RandevuTakipSistemi\RandevuTakipSistemi\obj\Debug\net8.0-windows\RandevuTakipSistemi.csproj.CoreCompileInputs.cache

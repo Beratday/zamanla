@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|c:\\users\\berat-pc\\source\\repos\\randevu\\randevu\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|solutionrelative:randevu\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|c:\\users\\berat-pc\\source\\repos\\randevu\\randevu\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|solutionrelative:randevu\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|c:\\users\\berat-pc\\source\\repos\\randevu\\randevu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9E88E-EF5B-482B-B2E3-182F17B900E3}|Randevu\\Randevu.csproj|solutionrelative:randevu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Randevu\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\App.xaml.cs",
+              "RelativeToolTip": "Randevu\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:25:00.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Randevu\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\MainPage.xaml.cs",
+              "RelativeToolTip": "Randevu\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:25:34.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Randevu\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\Randevu\\Randevu\\MainPage.xaml*",
+              "RelativeToolTip": "Randevu\\MainPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T22:25:15.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

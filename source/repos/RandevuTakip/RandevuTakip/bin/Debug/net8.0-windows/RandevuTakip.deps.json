@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RandevuTakip/1.0.0": {
+        "runtime": {
+          "RandevuTakip.dll": {}
+        },
+        "resources": {
+          "aa-DJ/RandevuTakip.resources.dll": {
+            "locale": "aa-DJ"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandevuTakip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="Randevu.MainPage"
+             Title="Randevu Uygulaması">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+
+        <Label Text="Randevu Başlığı" FontSize="Medium"/>
+        <Entry x:Name="TitleEntry" Placeholder="Örn: Diş Randevusu"/>
+
+        <Label Text="Randevu Tarihi" FontSize="Medium"/>
+        <DatePicker x:Name="DatePicker" />
+
+        <Button Text="Randevu Ekle" Clicked="OnAddAppointmentClicked"/>
+
+        <Label Text="Randevular" FontAttributes="Bold" FontSize="Medium" />
+
+        <CollectionView x:Name="AppointmentsView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" CornerRadius="10" Padding="10" Margin="0,5">
+                        <StackLayout>
+                            <Label Text="{Binding Title}" FontAttributes="Bold"/>
+                            <Label Text="{Binding Date, StringFormat='Tarih: {0:dd.MM.yyyy}'}"/>
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvx84kn8prw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuTakipSistemi\\RandevuTakipSistemi\\RandevuTakipSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BERAT-PC\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\BERAT-PC\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

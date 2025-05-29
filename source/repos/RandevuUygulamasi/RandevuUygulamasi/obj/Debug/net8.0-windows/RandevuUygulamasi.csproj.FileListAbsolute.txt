@@ -1,0 +1,7 @@
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.csproj.AssemblyReference.cache
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.Form1.resources
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.csproj.GenerateResource.cache
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.AssemblyInfoInputs.cache
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.AssemblyInfo.cs
+C:\Users\BERAT-PC\source\repos\RandevuUygulamasi\RandevuUygulamasi\obj\Debug\net8.0-windows\RandevuUygulamasi.csproj.CoreCompileInputs.cache

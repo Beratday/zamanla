@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\btnekle_click.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\btnekle_click.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\randevuuygulamasi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\randevuuygulamasi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\randevular.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\randevular.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|c:\\users\\berat-pc\\source\\repos\\randevuuygulamasi\\randevuuygulamasi\\randevuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C24457B-6090-46F6-AA03-F7F0A724628F}|RandevuUygulamasi\\RandevuUygulamasi.csproj|solutionrelative:randevuuygulamasi\\randevuislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "btnEkle_Click.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\btnEkle_Click.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\btnEkle_Click.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\btnEkle_Click.cs",
+              "RelativeToolTip": "RandevuUygulamasi\\btnEkle_Click.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:32:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.Designer.cs",
+              "RelativeToolTip": "RandevuUygulamasi\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:29:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.cs",
+              "RelativeToolTip": "RandevuUygulamasi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:29:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RandevuUygulamasi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:23:37.154Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RandevuIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\RandevuIslemleri.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\RandevuIslemleri.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\RandevuIslemleri.cs",
+              "RelativeToolTip": "RandevuUygulamasi\\RandevuIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:28:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Randevu.cs",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\Randevu.cs",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\Randevu.cs",
+              "RelativeToolTip": "RandevuUygulamasi\\Randevu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:28:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "randevular.db",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\randevular.db",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\randevular.db",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\randevular.db",
+              "RelativeToolTip": "RandevuUygulamasi\\randevular.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-20T01:27:19.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandevuUygulamasi",
+              "DocumentMoniker": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\RandevuUygulamasi.csproj",
+              "RelativeDocumentMoniker": "RandevuUygulamasi\\RandevuUygulamasi.csproj",
+              "ToolTip": "C:\\Users\\BERAT-PC\\source\\repos\\RandevuUygulamasi\\RandevuUygulamasi\\RandevuUygulamasi.csproj",
+              "RelativeToolTip": "RandevuUygulamasi\\RandevuUygulamasi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T01:25:19.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
