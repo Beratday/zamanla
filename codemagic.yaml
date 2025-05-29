@@ -5,7 +5,7 @@ workflows:
       flutter: stable
       xcode: latest
       cocoapods: default
-      java: openjdk17
+      java: 17
     scripts:
       - name: Install dependencies
         script: flutter pub get
