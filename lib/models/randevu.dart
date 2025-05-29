@@ -1,15 +1,22 @@
 class Randevu {
-  int? id;
-  String baslik;
-  DateTime tarih;
+  final int? id;
+  final String baslik;
+  final String aciklama;
+  final String tarih;
 
-  Randevu({this.id, required this.baslik, required this.tarih});
+  Randevu({
+    this.id,
+    required this.baslik,
+    required this.aciklama,
+    required this.tarih,
+  });
 
   Map<String, dynamic> toMap() {
     return {
       'id': id,
       'baslik': baslik,
-      'tarih': tarih.toIso8601String(),
+      'aciklama': aciklama,
+      'tarih': tarih,
     };
   }
 
@@ -17,7 +24,8 @@ class Randevu {
     return Randevu(
       id: map['id'],
       baslik: map['baslik'],
-      tarih: DateTime.parse(map['tarih']),
+      aciklama: map['aciklama'],
+      tarih: map['tarih'],
     );
   }
 }

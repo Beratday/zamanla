@@ -1,24 +1,24 @@
+// lib/providers/randevu_provider.dart
+
 import 'package:flutter/material.dart';
-import '../models/randevu.dart';
-import '../db/veritabani_helper.dart';
+import 'package:zamanla/db/veritabani_helper.dart';  // Doðru import yolu
 
 class RandevuProvider with ChangeNotifier {
-  List<Randevu> _randevular = [];
+  final VeritabaniHelper _dbHelper = VeritabaniHelper();
 
-  List<Randevu> get randevular => _randevular;
+  List<Map<String, dynamic>> _randevular = [];
 
-  Future<void> yukleRandevular() async {
-    _randevular = await VeritabaniHelper().getRandevular();
+  List<Map<String, dynamic>> get randevular => _randevular;
+
+  Future<void> fetchRandevular() async {
+    _randevular = await _dbHelper.getRandevular();
     notifyListeners();
   }
 
-  Future<void> randevuEkle(Randevu r) async {
-    await VeritabaniHelper().ekleRandevu(r);
-    await yukleRandevular();
+  Future<void> addRandevu(Map<String, dynamic> randevu) async {
+    await _dbHelper.insertRandevu(randevu);
+    await fetchRandevular();
   }
 
-  Future<void> randevuSil(int id) async {
-    await VeritabaniHelper().silRandevu(id);
-    await yukleRandevular();
-  }
+
 }

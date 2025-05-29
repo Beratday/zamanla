@@ -1,3 +1,6 @@
+final TextEditingController _baslikController = TextEditingController();
+final TextEditingController _aciklamaController = TextEditingController();
+DateTime _secilenTarih = DateTime.now();
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/randevu_provider.dart';
@@ -98,3 +101,8 @@ class _RandevuEkleState extends State<RandevuEkle> {
     );
   }
 }
+Randevu(
+  baslik: _baslikController.text,
+  aciklama: _aciklamaController.text,
+  tarih: _secilenTarih,
+);

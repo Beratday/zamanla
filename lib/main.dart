@@ -1,27 +1,19 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'providers/randevu_provider.dart';
-import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const ZamanlaApp());
+  runApp(const MyApp());
 }
 
-class ZamanlaApp extends StatelessWidget {
-  const ZamanlaApp({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (_) => RandevuProvider(),
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'Zamanla',
-        theme: ThemeData(
-          primarySwatch: Colors.teal,
-          useMaterial3: true,
-        ),
-        home: const HomeScreen(),
+    return MaterialApp(
+      title: 'Zamanla',
+      home: Scaffold(
+        appBar: AppBar(title: const Text('Zamanla')),
+        body: const Center(child: Text('Merhaba')),
       ),
     );
   }
