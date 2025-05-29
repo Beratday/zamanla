@@ -1,0 +1,26 @@
+workflows:
+  build_app:
+    name: Build Android & iOS App
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      java: openjdk11
+      android:
+        sdk: true
+    scripts:
+      - name: Install dependencies
+        script: flutter pub get
+      - name: Run tests
+        script: flutter test
+      - name: Build Android APK
+        script: flutter build apk --release
+      - name: Build iOS IPA
+        script: flutter build ios --release --no-codesign
+    artifacts:
+      - build/app/outputs/flutter-apk/app-release.apk
+      - build/ios/iphoneos/*.ipa
+    publishing:
+      email:
+        recipients:
+          - seninemail@example.com
