@@ -6,8 +6,6 @@ workflows:
       xcode: latest
       cocoapods: default
       java: openjdk11
-      android:
-        sdk: true
     scripts:
       - name: Install dependencies
         script: flutter pub get
@@ -23,4 +21,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - seninemail@example.com
+          - yildirimberat106@gmail.com
